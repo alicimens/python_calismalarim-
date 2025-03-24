@@ -3,7 +3,7 @@ from datetime import datetime
 print (datetime.now())
 
 """
-yukardakiyle  bu  kod  ayni ciktiyi uretir 
+yukardakiyle asagidaki  bu  kod  ayni ciktiyi uretir 
 
 import  datetime
 
